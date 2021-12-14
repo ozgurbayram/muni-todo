@@ -1,0 +1,37 @@
+{
+  "todos": [
+    {
+      "name": "Okul",
+      "tasks": [
+        {
+          "id": 1,
+          "name": "Matematik ödevini bitir",
+          "is_done": true,
+          "image_path": ""
+        },{
+          "id": 2,
+          "name": "İngilizce çalış",
+          "is_done": false,
+          "image_path": ""
+        }
+      ],
+      "id": 1
+    },{
+      "name": "İş",
+      "tasks": [
+        {
+          "id": 1,
+          "name": "Sunum Hazırla",
+          "is_done": true,
+          "image_path": ""
+        },{
+          "id": 2,
+          "name": "Toplanıya Katıl",
+          "is_done": false,
+          "image_path": ""
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
